@@ -14,7 +14,7 @@ Per-rack:
 - 10g kosher salt
 - 3g chili powder
 - 2g beau monde (https://www.amazon.com/s?k=beau+monde+seasoning)
-- 1.2g herbs de provance (https://www.amazon.com/s?k=morton+and+bassett+herbs+de+provence)
+- ~1.2g herbs de provance (https://www.amazon.com/s?k=morton+and+bassett+herbs+de+provence)
 - 1g Chinese five spice
 - 1g ground coffee
 
@@ -40,6 +40,6 @@ When the ribs are tender, open one end of each packet and pour the liquid into a
 
 Start simmering the liquid from the ribs and stir in BBQ and hoisin sauce.  Keep reducing the liquid until it is a thick syrup, less than half the volume; the thicker the better, but don't burn it, there's a lot of sugar in there.
 
-Spoon and brush the glaze on the meat side and roast under the broiler or on the grill to carmelize; WATCH CLOSELY, they can burn very quickly.  Repeat on the bone side and again on the meat side.
+Open up the foil, but use it to keep the pans easy to clean; spoon and brush the glaze on the meat side and roast under the broiler or on the grill to carmelize.  WATCH CLOSELY, they can burn very quickly.  Repeat on the bone side and again on the meat side.
 
 Serve with remaining glaze and more BBQ sauce.
