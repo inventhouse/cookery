@@ -19,4 +19,4 @@ In a mug, combine:
 
 Microwave for about 90 seconds, or just a little after the brownie stops rising.
 
-Add a scoop of ice cream on top and eat from the mug with a spoon.
+Add a scoop of ice cream on top and eat it right from the mug with a spoon.
