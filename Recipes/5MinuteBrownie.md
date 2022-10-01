@@ -7,7 +7,7 @@ This recipe is a bit rough, but very forgiving; basically most things are in rou
 
 The exact amounts really depend on the size of the mug and spoon that are convenient; you want the mixed batter to fill your mug about 1/3 - 1/2 full.  I use the larger of our regular silverware spoons.
 
-In a mug, combine:
+In a microwave-safe mug, combine:
 
 - 2 spoons sugar
 - 2 spoons flour
