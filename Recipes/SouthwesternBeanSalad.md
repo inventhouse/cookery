@@ -3,7 +3,7 @@ Southwestern Bean Salad
 
 Throughout the summer, we like to make various chilled bean salads; each week, we have one in a large container in the fridge for quick and easy lunches.
 
-One of our favorites is from: [Fresh Black Bean Salad Recipe - Cookie and Kate](https://cookieandkate.com/black-bean-salad-recipe/)
+One of our favorites is: [Fresh Black Bean Salad Recipe - Cookie and Kate](https://cookieandkate.com/black-bean-salad-recipe/)
 
 - 3 cans of black beans (15 ounces each) or 4 ½ cups cooked black beans, rinsed and well-drained
 - 2 ears of corn, shucked, or 1 cup of canned corn (drained) or defrosted frozen corn
