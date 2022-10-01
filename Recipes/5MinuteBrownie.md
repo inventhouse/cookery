@@ -5,7 +5,7 @@ For real: a fresh, hot, from-scratch brownie in just five minutes total!
 
 This recipe is a bit rough, but very forgiving; basically most things are in roughly equal proportions, maybe a little more of the dry ingredients.
 
-The exact amounts really depend on the size of your mug and the spoons that are convenient; you want the mixed batter to fill your mug about 1/3 - 1/2 full.  I use the larger of our regular silverware spoons.
+The exact amounts really depend on the size of the mug and spoon that are convenient; you want the mixed batter to fill your mug about 1/3 - 1/2 full.  I use the larger of our regular silverware spoons.
 
 In a mug, combine:
 
