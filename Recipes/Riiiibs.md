@@ -10,13 +10,15 @@ Back ribs are meatier and cook more quickly, but country or st. louis spareribs 
 Rib rub
 -------
 Per-rack:
-- 75g brown sugar
-- 10g kosher salt
-- 3g chili powder
-- 2g beau monde (https://www.amazon.com/s?k=beau+monde+seasoning)
-- ~1.2g herbs de provance (https://www.amazon.com/s?k=morton+and+bassett+herbs+de+provence)
-- 1g Chinese five spice
-- 1g ground coffee
+- 75g brown sugar (½ C)
+- 10g kosher salt (1½ tsp)
+- 3g chili powder (1 tsp)
+- 2g [beau monde](https://www.amazon.com/s?k=beau+monde+seasoning) (½ tsp) 
+- ~1.2g [herbs de provance](https://www.amazon.com/s?k=morton+and+bassett+herbs+de+provence) (1½ tsp)
+- 1g Chinese five spice (½ tsp)
+- 1g ground coffee (½ tsp)
+
+(Volumetric measures approximate; I recommend a kitchen scale, they’re inexpensive, much more accurate, and much more convenient than fussing with measuring cups and spoons.)
 
 Braise
 ------
