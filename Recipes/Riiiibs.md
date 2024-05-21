@@ -5,7 +5,7 @@ Dry-rubbed, ginger beer braised, glazed pork ribs; Ooohhhh yyyeeeaaaahhhh!
 
 Ribs
 ----
-Back ribs are meatier and cook more quickly, but country or st. louis spareribs work too, they just take longer to be as tender.  I always make at least two racks, since it isn't really any more work; then I vaccuum-seal and freeze any extra.
+Back ribs are meatier and cook more quickly, but country or st. louis spareribs work too, they just take longer to be as tender.  I always make at least two racks, since it isn't really any more work; then I vacuum-seal and freeze any extra.
 
 Rib rub
 -------
@@ -14,7 +14,7 @@ Per-rack:
 - 10g kosher salt (1½ tsp)
 - 3g chili powder (1 tsp)
 - 2g [beau monde](https://www.amazon.com/s?k=beau+monde+seasoning) (½ tsp) 
-- ~1.2g [herbs de provance](https://www.amazon.com/s?k=morton+and+bassett+herbs+de+provence) (1½ tsp)
+- ~1.2g [herbs de provence](https://www.amazon.com/s?k=morton+and+bassett+herbs+de+provence) (1½ tsp)
 - 1g Chinese five spice (½ tsp)
 - 1g ground coffee (½ tsp)
 
@@ -23,7 +23,7 @@ Per-rack:
 Braise
 ------
 Per-rack:
-- ~6oz good, spicy, ginger beer
+- ~6oz good, spicy, ginger beer  (Bundaberg, Reed's Extra Spicy, Gosling's)
 
 Glaze
 -----
