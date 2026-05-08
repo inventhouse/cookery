@@ -9,6 +9,10 @@ Cooking, recipes, and food
 - [Riiiibs](Recipes/Riiiibs.md)
 - [Southwestern Bean Salad](Recipes/SouthwesternBeanSalad.md)
 
+## Bakery
+
+- [BreadMath](Bakery/BreadMath.pdf)
+
 ## Tools
 
 - [Cooking Scale](Tools/CookingScale.md)
