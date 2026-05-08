@@ -18,7 +18,7 @@ Per-rack:
 - 1g Chinese five spice (½ tsp)
 - 1g ground coffee (½ tsp)
 
-(Volumetric measures approximate; I recommend a kitchen scale, they’re inexpensive, much more accurate, and much more convenient than fussing with measuring cups and spoons.)
+(Volumetric measures approximate; I recommend a [kitchen scale](../Tools/CookingScale.md), they’re inexpensive, much more accurate, and much more convenient than fussing with measuring cups and spoons.)
 
 Braise
 ------
