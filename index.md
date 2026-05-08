@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Cookery
 
 Cooking, recipes, and food
