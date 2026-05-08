@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Cookery
 
 Cooking, recipes, and food
